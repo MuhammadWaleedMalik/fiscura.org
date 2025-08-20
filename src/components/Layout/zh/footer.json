@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "nameAlt": "ExactPilot",
+    "slogan": "精准解决每一个问题"
+  },
+  "navigation": {
+    "title": "导航",
+    "links": [
+      { "path": "/", "label": "主页" },
+      { "path": "/about", "label": "关于我们" },
+      { "path": "/services", "label": "服务" },
+      { "path": "/blog", "label": "博客" }
+    ]
+  },
+  "legal": {
+    "title": "法律",
+    "links": [
+      { "path": "/privacy", "label": "隐私政策" },
+      { "path": "/terms", "label": "服务条款" },
+      { "path": "/cookies", "label": "Cookie 政策" }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "info": [
+      { "type": "mail", "text": "pythoncoderexpert@gmail.com" },
+      { "type": "phone", "text": "+92 344 4675899" }
+    ]
+  },
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Instagram", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "© {year} {name}。版权所有。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

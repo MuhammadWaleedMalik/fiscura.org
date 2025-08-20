@@ -1,0 +1,42 @@
+{
+  "title": "About ExactPilot",
+  "subtitle": "We are a team of dedicated professionals committed to delivering innovative solutions that drive business success and transform organizations.",
+  "stats": [
+    { "label": "Years Experience", "value": "10+" },
+    { "label": "Projects Completed", "value": "500+" },
+    { "label": "Happy Clients", "value": "200+" },
+    { "label": "Team Members", "value": "50+" }
+  ],
+  "valuesTitle": "Our Values",
+  "values": [
+    {
+      "title": "Passion",
+      "description": "We are passionate about delivering exceptional results for our clients."
+    },
+    {
+      "title": "Excellence",
+      "description": "We maintain the highest standards in everything we do."
+    },
+    {
+      "title": "Collaboration",
+      "description": "We work closely with our clients to achieve shared success."
+    },
+    {
+      "title": "Innovation",
+      "description": "We embrace new technologies and innovative approaches."
+    }
+  ],
+  "story": {
+    "title": "Our Story",
+    "paragraphs": [
+      "Founded with a vision to bridge the gap between technology and business success, ExactPilot has grown from a small startup to a trusted partner for organizations worldwide.",
+      "Our journey began with a simple belief: that every business deserves access to cutting-edge solutions that can transform their operations and drive growth. Today, we continue to uphold this mission with the same passion and dedication.",
+      "We've helped hundreds of companies across various industries achieve their goals through innovative technology solutions, strategic consulting, and unwavering support."
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To empower businesses with innovative solutions that drive growth, efficiency, and success in an ever-evolving digital landscape.",
+    "slogan": "Precision in Every Solution"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "nameAlt": "Tax Solutions Platform",
+    "slogan": "Precision in Every Solution"
+  },
+  "navigation": {
+    "title": "Navigation",
+    "links": [
+      { "path": "/", "label": "Home" },
+      { "path": "/about", "label": "About" },
+      { "path": "/services", "label": "Services" },
+      { "path": "/blog", "label": "Blog" }
+    ]
+  },
+  "legal": {
+    "title": "Legal",
+    "links": [
+      { "path": "/privacy", "label": "Privacy Policy" },
+      { "path": "/terms", "label": "Terms of Service" },
+      { "path": "/cookies", "label": "Cookie Policy" }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "info": [
+      { "type": "mail", "text": "pythoncoderexpert@gmail.com" },
+      { "type": "phone", "text": "+92 344 4675899" }
+    ]
+  },
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Instagram", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "© {year} {name}. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "nameAlt": "ExactPilot",
+    "slogan": "あらゆる課題に精密な解決を"
+  },
+  "navigation": {
+    "title": "ナビゲーション",
+    "links": [
+      { "path": "/", "label": "ホーム" },
+      { "path": "/about", "label": "私たちについて" },
+      { "path": "/services", "label": "サービス" },
+      { "path": "/blog", "label": "ブログ" }
+    ]
+  },
+  "legal": {
+    "title": "法務情報",
+    "links": [
+      { "path": "/privacy", "label": "プライバシーポリシー" },
+      { "path": "/terms", "label": "利用規約" },
+      { "path": "/cookies", "label": "クッキーポリシー" }
+    ]
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "info": [
+      { "type": "mail", "text": "pythoncoderexpert@gmail.com" },
+      { "type": "phone", "text": "+92 344 4675899" }
+    ]
+  },
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Instagram", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "© {year} {name}。全著作権所有。",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  }
+}

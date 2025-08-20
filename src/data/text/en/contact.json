@@ -1,0 +1,60 @@
+{
+  "title": "Get In Touch",
+  "subtitle": "Ready to start your project? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+  "contactInfo": [
+    {
+      "title": "Email Us",
+      "details": "pythoncoderexpert@gmail.com",
+      "description": "Send us an email anytime!"
+    },
+    {
+      "title": "Call Us",
+      "details": "+92",
+      "description": "Mon-Fri from 8am to 6pm"
+    },
+    {
+      "title": "Visit Us",
+      "details": "123 Business Avenue, Suite 100",
+      "description": "Pakistan"
+    }
+  ],
+  "businessHours": {
+    "title": "Business Hours",
+    "days": [
+      { "name": "Monday - Friday", "hours": "8:00 AM - 6:00 PM" },
+      { "name": "Saturday", "hours": "9:00 AM - 4:00 PM" },
+      { "name": "Sunday", "hours": "Closed" }
+    ]
+  },
+  "form": {
+    "title": "Send us a Message",
+    "success": {
+      "title": "Message Sent Successfully!",
+      "message": "Thank you for contacting us. We'll get back to you within 24 hours.",
+      "button": "Send Another Message"
+    },
+    "fields": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "service": "Service Interest",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "serviceOptions": {
+        "general": "General Inquiry",
+        "technology": "Technology Solutions",
+        "security": "Security Services",
+        "consulting": "Consulting",
+        "web": "Web Development",
+        "support": "Support & Maintenance"
+      }
+    }
+  },
+  "websiteInfo": {
+    "name": "ali abbas",
+    "slogan": "Precision in Every Solution",
+    "mail": "pythoncoderexpert@gmail.com",
+    "phone": "+923007693131"
+  }
+}
