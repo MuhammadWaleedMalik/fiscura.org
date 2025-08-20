@@ -12,6 +12,7 @@ const UserStat = () => {
         console.log("API URL:", API_URL);
         const response = await fetch(`${API_URL}/api/v1/dashboard/get`);
         const result = await response.json();
+        console.log("API Response:", result);
 
         if (result.success && result.data.length > 0) {
           const { usersThisMonth } = result.data[0];
